@@ -13,10 +13,18 @@
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^7.1.1",
     "@mui/material": "^7.1.1",
+    "@splidejs/react-splide": "^0.7.12",
+    "@splidejs/splide": "^4.1.4",
     "aos": "^2.3.4",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.18.1",
+    "motion": "^12.18.1",
     "next": "15.3.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-intersection-observer": "^9.16.0",
+    "simplex-noise": "^4.0.3",
+    "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
